@@ -4,7 +4,7 @@
 A) Goto https://aqueous-waters-81428.herokuapp.com/ \
 B) Select Agent or Admin button to go to their respective login pages\
 C) In Agent: username: "5" password: "password"\
-D) In Admin: username: "ishanarya0" password: "ishanarya"
+D) In Office: username: "naman" password: "naman"
 
 ## TO RUN ON YOUR LOCAL MACHINE:
 A) Clone this repository on your local machine.\
